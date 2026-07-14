@@ -9,6 +9,9 @@ hero:
     - theme: brand
       text: Ir al workshop →
       link: /leading-with-ai-walmart
+    - theme: alt
+      text: People Workshop →
+      link: /people-workshop
 
 features:
   - title: AI Literacy para Líderes

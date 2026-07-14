@@ -18,6 +18,12 @@ export default defineConfig({
         items: [
           { text: 'Workshop', link: '/leading-with-ai-walmart' }
         ]
+      },
+      {
+        text: 'People Workshop',
+        items: [
+          { text: 'Workshop', link: '/people-workshop' }
+        ]
       }
     ],
 
