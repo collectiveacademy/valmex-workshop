@@ -1,10 +1,10 @@
-# People Workshop – Leading with AI
+# Leading with AI – Workshop
 
 ## Ficha Técnica
 
 | Concepto | Detalle |
 | :--- | :--- |
-| **Nombre de la sesión** | People Workshop – Leading with AI |
+| **Nombre de la sesión** | Leading with AI – Workshop |
 | **Duración** | 2 h 45 min (aprox.) |
 | **Modalidad** | Presencial / Sincrónica |
 | **Audiencia** | Líderes y equipos de distintas tribus con uso frecuente de herramientas de IA |

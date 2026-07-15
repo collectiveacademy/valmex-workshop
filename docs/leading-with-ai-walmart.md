@@ -1,10 +1,10 @@
-# Leading with AI – Walmart
+# Leading with AI – Workshop
 
 ## Ficha Técnica
 
 | Concepto | Detalle |
 | :--- | :--- |
-| **Nombre de la sesión** | Leading with AI – Walmart |
+| **Nombre de la sesión** | Leading with AI – Workshop |
 | **Duración** | 4 horas |
 | **Modalidad** | Presencial / Sincrónica |
 | **Audiencia** | Líderes y equipos de distintas tribus con uso frecuente de herramientas de IA |
