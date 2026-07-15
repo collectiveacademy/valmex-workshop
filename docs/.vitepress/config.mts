@@ -14,15 +14,10 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Leading with AI – Walmart',
+        text: 'Leading With AI',
         items: [
-          { text: 'Workshop', link: '/leading-with-ai-walmart' }
-        ]
-      },
-      {
-        text: 'People Workshop',
-        items: [
-          { text: 'Workshop', link: '/people-workshop' }
+          { text: 'Workshop Version A', link: '/leading-with-ai-walmart' },
+          { text: 'Workshop Versión B', link: '/people-workshop' }
         ]
       }
     ],

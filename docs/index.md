@@ -7,10 +7,10 @@ hero:
   tagline: "De la IA productiva al liderazgo estratégico con datos."
   actions:
     - theme: brand
-      text: Ir al workshop →
+      text: Workshop Version A →
       link: /leading-with-ai-walmart
     - theme: alt
-      text: People Workshop →
+      text: Workshop Versión B →
       link: /people-workshop
 
 features:
