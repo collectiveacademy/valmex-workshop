@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  base: process.env.GITHUB_ACTIONS ? '/valmex-workshop/' : '/',
   title: 'Decidir con IA – Valmex',
   description: 'Workshop ejecutivo para investigar decisiones internas con Copilot',
   lang: 'es-ES',
