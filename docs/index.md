@@ -2,22 +2,19 @@
 layout: home
 
 hero:
-  name: "Leading with AI"
-  text: "Walmart Workshop"
-  tagline: "De la IA productiva al liderazgo estratégico con datos."
+  name: "Decidir con IA"
+  text: "Workshop ejecutivo · Valmex"
+  tagline: "De un archivo CSV a una decisión interna mejor sustentada, en 90 minutos."
   actions:
     - theme: brand
-      text: Workshop Version A →
-      link: /leading-with-ai-walmart
-    - theme: alt
-      text: Workshop Versión B →
-      link: /people-workshop
+      text: Abrir guía del workshop →
+      link: /workshop
 
 features:
-  - title: AI Literacy para Líderes
-    details: Entiende cómo funcionan los LLMs, por qué el contexto importa y qué modelo usar según el tipo de tarea.
-  - title: Del Dato a la Decisión
-    details: Aprende a formular preguntas estratégicas, construir hipótesis y evaluar evidencia antes de actuar.
-  - title: Presentación de Hallazgos
-    details: Cierra el workshop con una plantilla para presentar evidencia, nivel de confianza y límites del análisis.
+  - title: Descubrir antes de concluir
+    details: Usa Copilot para entender la estructura, calidad y patrones de un CSV sin inventar explicaciones.
+  - title: Poner a prueba una hipótesis
+    details: Convierte un patrón en una hipótesis operacional y busca evidencia que la apoye o la contradiga.
+  - title: Validar antes de usar
+    details: Distingue evidencia, interpretación y decisión; verifica fuentes, errores y el momento de escalar.
 ---

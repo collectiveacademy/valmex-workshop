@@ -1,25 +1,13 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  base: '/walmart-ai-workshop/',
-  title: "Leading with AI – Walmart",
-  description: "Workshop práctico para líderes de Walmart sobre decisiones asistidas por IA",
+  title: 'Decidir con IA – Valmex',
+  description: 'Workshop ejecutivo para investigar decisiones internas con Copilot',
   lang: 'es-ES',
   themeConfig: {
-    logo: '/logo.avif',
-    siteTitle: false,
+    siteTitle: 'Decidir con IA · Valmex',
     nav: [
       { text: 'Inicio', link: '/' },
-    ],
-
-    sidebar: [
-      {
-        text: 'Leading With AI',
-        items: [
-          { text: 'Workshop Version A', link: '/leading-with-ai-walmart' },
-          { text: 'Workshop Versión B', link: '/people-workshop' }
-        ]
-      }
     ],
 
     outline: {
@@ -30,8 +18,8 @@ export default defineConfig({
     socialLinks: [],
 
     footer: {
-      message: 'Diseñado para uso educativo.',
-      copyright: 'Copyright © 2024 Leading with AI – Walmart'
+      message: 'Material de trabajo interno. Toda salida de IA requiere revisión humana.',
+      copyright: 'Valmex · Decidir con IA'
     }
   }
 })
